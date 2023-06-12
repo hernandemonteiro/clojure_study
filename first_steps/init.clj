@@ -27,3 +27,9 @@ Isso é um comentário multilinhas
 (def total-na-variavel (+ total-na-variavel 3))
 
 (println total-na-variavel)
+
+
+;; ###############################
+
+
+(if (true? true) (println "condicional deu certo!"))
